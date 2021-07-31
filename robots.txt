@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hiphopza.herokuapp.com/host-https-hiphopza.com/sitemap_index.xml
